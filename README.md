@@ -12,8 +12,7 @@
 - D. เปิดใช้งาน Virtual Environment
 	.venv\Scripts\Activate.ps1
 
-
-E. ติดตั้ง Streamlit
+- E. ติดตั้ง Streamlit
 	pip install streamlit
   ตรวจสอบ
 	streamlit version
